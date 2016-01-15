@@ -1,0 +1,43 @@
+.wrap{min-width: 1250px;}
+.safewidth{width:1250px; margin:0 auto; }
+.nav_wrap{border-bottom:1px solid #42c0e0; width:100%; height: auto;}
+.nav{height:60px; padding:10px 0; overflow: hidden; margin-left:60px; margin-right: 60px; }
+.logo{  float: left;}
+.nav_info{ float:right; font-size: 2rem;  }
+.nav_info li{float: left; width:153px; height: 60px; line-height: 60px; background-image: url(../img/z_triangle_03.png); background-repeat: no-repeat; background-position: 120px 0px; }
+.nav_info li:hover{cursor:pointer; color:#78dcdc;}
+.banner_wrap{width:100%; height: auto; border:1px solid  #42c0e0;}
+.banner{ height:483px;  overflow:hidden;}
+.banner img{float:left; }
+.banner_inner{float: left; width:550px; height: auto; float: right;}
+.banner_inner .slogan{margin-top: 165px; }
+.manyou{float:left; display:block; margin:47px 150px 37px 10px; width:318px; height: 48px; border:1px solid #46d3d3; border-radius: 3px; background:url(../img/manyou_07.png) 0 0 no-repeat;}
+.more_model{float: left; color:#aaa; font-size: 2rem; margin-left:100px; }
+.more_model:hover{color:#46d3d3;}
+.article_wrap{ overflow: hidden;  width:100%; height:auto;  }
+.area_ul{width:900px; height: 210px; box-sizing: border-box; margin:0 auto; padding-top: 30px; overflow: hidden;}
+.area_ul li{float:left; width:100px;  margin-right:100px;}
+.ico{float:left;   background-image: url(../img/area.png); background-repeat: no-repeat; float:left; width: 100px; height:100px; margin-bottom: 30px;}
+.name{float:left; width:100px; height:40px; text-align: center; line-height: 40px; font-size: 2.4rem;}
+.detail_wrap{width: 100%;  background-color:#f4f4f4; float:left; }
+.detail_ul{width:1250px; height: 550px; margin:0 auto; overflow: hidden;}
+.detail_ul li{width: 100%; height: 100%; overflow: hidden;}
+.area_wrap{float:left; width:100%;}
+.product_ul{width: 100%; height:80%; float:left; overflow: hidden;}
+.product_ul li{float:left; text-align: center; width:33%;}
+.detail_list{width: 99.5%; border-right: 2px solid #787878; height: 400px; overflow: hidden; }
+.list_p{display: block; width:100%; text-align: center; height:250px; margin-top:50px; }
+.tag{display: block;  width:100%; text-align: center; height: 40px; line-height: 40px; font-size: 2.1rem; color:#3f3f3f; margin-top:30px; }
+.list_detail{width:340px; word-wrap: break-word; font-size: 1.7rem; margin: 0 auto;  color:#3f3f3f;  letter-spacing: -1px; text-align: left;}
+.know_more{display: block; width:330px; height:60px; line-height: 60px; text-align: center; margin:0 auto; font-size: 2.4rem; margin-top:30px; border:1px solid #4f4f4f;  border-radius: 3px;}
+.km_wrap{width: 100%; float:left; overflow: hidden;}
+.footer_wrap{width:100%; overflow: hidden;}
+.partner{height:150px; width: 100%; overflow: hidden; float:left;}
+.partner >img{display:block; margin:0 auto; max-width: 100%; margin-top: 55px;}
+.footer_inner{ float: left; width: 100%; position:relative; overflow: hidden;}
+.partners{width: 910px;  margin-top:2%; }
+.know_me{width: 100%; height:20%; background-color:#f4f4f4; position: absolute; left:0; bottom:0px;  min-width: 200px;  }
+.kwe_wrap{width:960px; height: 100%;  margin:0 auto; }
+.km_inner{overflow: hidden; margin-top: 5%;}
+.km_inner{width:100%; height: 100%;}
+.km_inner li{float:left; height: 20%; line-height: 100%; width:100%; font-size:1.8rem;}
